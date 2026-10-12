@@ -1,0 +1,25 @@
+FragWars - License
+
+Copyright (c) 2026 Jens Berfenfeldt. All rights reserved.
+
+FragWars is the property of Jens Berfenfeldt. You are granted a free, personal,
+non-exclusive, non-transferable license to download, install and play FragWars.
+
+You may not, without written permission from the copyright holder:
+  - modify, adapt, translate or create derivative works of FragWars;
+  - reverse engineer, decompile or disassemble FragWars, except to the extent
+    the law expressly permits it despite this restriction;
+  - sell, rent, lend, sublicense or distribute FragWars, in whole or in part,
+    or include it in any product or service.
+
+All rights not expressly granted here are reserved.
+
+FragWars is provided "as is", without warranty of any kind. To the extent the
+law allows, the copyright holder is not liable for any damage arising from its
+use.
+
+FragWars includes third-party components, each under its own license; see
+THIRD-PARTY-NOTICES.txt. Nothing in this license restricts your rights under
+those licenses.
+
+This license is governed by the laws of Sweden.
