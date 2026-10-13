@@ -1,8 +1,8 @@
-FragWars - Third-party notices
+RumbleMechs - Third-party notices
 
-FragWars (see LICENSE.txt) includes the following third-party components. Each is
+RumbleMechs (see LICENSE.txt) includes the following third-party components. Each is
 distributed under its own license, given below. Those licenses apply to those
-components only, and nothing in FragWars' license restricts your rights under them.
+components only, and nothing in RumbleMechs' license restricts your rights under them.
 
   Component                Version   License                     Source
   ----------------------   -------   -------------------------   --------------------------------------------
@@ -709,7 +709,7 @@ StbImageSharp
 -------------
 
 StbImageSharp, a C# port of stb_image by Sean Barrett, is available under either
-the public domain or the MIT license. FragWars uses it under the MIT license:
+the public domain or the MIT license. RumbleMechs uses it under the MIT license:
 
 MIT License
 

@@ -1,12 +1,12 @@
-# FragWars
+# RumbleMechs
 
 A multiplayer 2D mech game: steam-powered mechs, destructible ground, grenades and gatling guns, played in teams
 over the internet.
 
-![FragWars: a mech sprays its gatling gun from a grassy hill, with the fort and the land around remembered in the fog](images/screenshot.png)
+![RumbleMechs: a mech sprays its gatling gun from a grassy hill, with the fort and the land around remembered in the fog](images/screenshot.png)
 
 > **Early alpha.** This is an early alpha version: expect bugs, missing features and things changing between
-> builds. It is free to download and play during the alpha, but FragWars will **not** be free once it is released.
+> builds. It is free to download and play during the alpha, but RumbleMechs will **not** be free once it is released.
 
 This repository only holds the game for download. The game's source is not public.
 
@@ -31,14 +31,14 @@ ideas.
 
 ## Download and play
 
-**[Download the latest version for Windows](https://github.com/SyntaxWarrior/FragWars-Public/releases/latest/download/FragWars-win-x64.zip)**
+**[Download the latest version for Windows](https://github.com/SyntaxWarrior/RumbleMechs/releases/latest/download/RumbleMechs-win-x64.zip)**
 
 1. Unzip it anywhere.
-2. Start `FragWars.Client.exe`.
+2. Start `RumbleMechs.exe`.
 3. Pick a server from the list and play.
 
 Nothing else needs installing. Your name in the game is your Windows user name; to choose another, start it from a
-command prompt with the name after it: `FragWars.Client.exe MyName`.
+command prompt with the name after it: `RumbleMechs.exe MyName`.
 
 Windows may warn that the program is from an unknown publisher, since it isn't signed. Choose **More info** and then
 **Run anyway**.
@@ -57,7 +57,7 @@ Windows may warn that the program is from an unknown publisher, since it isn't s
 
 ## License
 
-The alpha is free to download and play, but FragWars is not open source, and the finished game will not be free:
+The alpha is free to download and play, but RumbleMechs is not open source, and the finished game will not be free:
 see [LICENSE.txt](LICENSE.txt). It includes third-party components under their own licenses: see
 [THIRD-PARTY-NOTICES.txt](THIRD-PARTY-NOTICES.txt).
 
