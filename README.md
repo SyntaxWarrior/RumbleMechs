@@ -2,9 +2,9 @@
 
 Welcome to RumbleMechs!
 
-RumbleMechs is a 2D side-scrolling multiplayer team PvP mech game. Your team of mechs battles it out against another for dominance, over ground that gives way under every shot: blast through hills, dig under the enemy's defenses, and build your own.
+RumbleMechs is a 2D side-scrolling multiplayer team PvP mech game with destructible terrain. Your team of mechs battles it out against another for dominance. Blast through hills, dig under the enemy's defenses, and build your own.
 
-![RumbleMechs: a mech sprays its gatling gun from a grassy hill, with the fort and the land around remembered in the fog](images/screenshot.png)
+![RumbleMechs: two mechs trade minigun fire across a valley between grassy hills, crates scattered on the slopes](images/gameplay.webp)
 
 > **Early alpha.** The game is in early development: expect bugs, missing features and things changing between builds. It is free to download and play during the alpha, but RumbleMechs will **not** be free once it is released.
 
@@ -17,13 +17,10 @@ ideas.
 
 ### In the game now
 
-- **Fully destructible terrain.** Every grenade and every round takes a bite out of the ground. Grass gives way
-  easily, dirt less so, rock hardly at all. Blast through hills, open up tunnels, or dig out the ground under
-  someone's feet.
-- **Physics that meets the terrain.** Mechs, crates, grenades and rounds all move by the same physics. Blow a hole in
+- **Fully destructible terrain.** All terrain is destructible. Dig tunnels and surprise your enemy! Create a secret tunnel right into the enemy base.
+- **Physics.** Mechs, crates, grenades and rounds all move by the same physics. Blow a hole in
   a wall and lob grenades through it.
-- **Dig and build.** The ground is yours to reshape: tunnel under the map into the enemy's base, carve out bunkers,
-  or build walls and cover where you need them.
+- **Dig and build.** The ground is yours to reshape: tunnel under the map into the enemy's base, carve out bunkers,  or build walls and cover where you need them.
 - **Fog of war.** Fog of war that is shared by the team. If the enemy can't see you, they don't know what you are doing. maybe you dig a tunnel right under their base.
 - **Fast mechs.** Walk, jump and fly on your thrusters, everything uses energy and you only have a limited amount.
 
@@ -34,7 +31,9 @@ ideas.
 - **Bases to build and defend.** Place generators, turrets and shields to protect your base, and break through the
   enemy's.
 - **Your own loadout.** Build your mech to suit your playstyle: heavy or light, machine guns or grenade launchers.
-- **More weapons**, more maps and more ways to wreck them.
+- **More weapons**, destroy things even faster, bigger explosions, throw grenades that create walls of dirt to block your enemies.
+- **More maps**, several more maps.
+- **Control waypoints**, There will be waypoints you can control for bonuses.
 
 ## Download and play
 
@@ -44,8 +43,8 @@ ideas.
 2. Start `RumbleMechs.exe`.
 3. Pick a server from the list and play.
 
-Nothing else needs installing. Your name in the game is your Windows user name; to choose another, start it from a
-command prompt with the name after it: `RumbleMechs.exe MyName`.
+Nothing else needs installing. Type the name you want to play under in the box above the server list (click it or
+press Tab); it is kept for the next time, in `settings.yaml` next to the game.
 
 Windows may warn that the program is from an unknown publisher, since it isn't signed. Choose **More info** and then
 **Run anyway**.

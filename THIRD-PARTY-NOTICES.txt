@@ -13,6 +13,7 @@ components only, and nothing in RumbleMechs' license restricts your rights under
   LiteNetLib               2.1.4     MIT                         https://github.com/RevenantX/LiteNetLib
   Box2D.NET                3.1.654   MIT                         https://github.com/ikpil/Box2D.NET
   StbImageSharp            2.30.15   Public Domain or MIT        https://github.com/StbSharp/StbImageSharp
+  YamlDotNet               18.1.0    MIT                         https://github.com/aaubry/YamlDotNet
   .NET runtime             10        MIT                         https://github.com/dotnet/runtime
 
 OpenAL Soft is included unmodified as a separate library, openal.dll, which you
@@ -714,6 +715,33 @@ the public domain or the MIT license. RumbleMechs uses it under the MIT license:
 MIT License
 
 Copyright (c) 2017 Sean Barrett, and the StbSharp contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
+of the Software, and to permit persons to whom the Software is furnished to do
+so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+==============================================================================
+
+YamlDotNet
+----------
+
+The MIT License (MIT)
+
+Copyright (c) 2008, 2009, 2010, 2011, 2012, 2013, 2014 Antoine Aubry and contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
