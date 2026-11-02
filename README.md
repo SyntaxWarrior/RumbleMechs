@@ -22,6 +22,8 @@ ideas.
 - **Fog of war.** Vision is shared by the team. If the enemy can't see you, they don't know what you are doing. Maybe you are digging a tunnel right under their base.
 - **Your own loadout.** Build your mech to suit your playstyle: heavy or light, machine guns or grenade launchers. But you only have so much space, and being heavy is not always the best choice.
 
+![The inventory screen with five presets, the Marauder class and Tungsten plating selected, and a mech with rocket launchers on the shoulders and gatling guns on the arms](images/inventory.webp)
+
 ![A grenade explodes in a fiery burst in the middle of a valley while a mech watches from the left slope](images/grenade-valley.webp)
 
 ### Planned
@@ -66,18 +68,6 @@ If it won't start, make it runnable first: `chmod +x RumbleMechsLauncher game/Ru
 Nothing else needs installing. Type the name you want to play under in the box above the server list (click it or
 press Tab); it is kept for the next time, in `settings.yaml` in the `game` folder. All builds are on the
 [releases page](https://github.com/SyntaxWarrior/RumbleMechs/releases).
-
-### Controls
-
-| | Keyboard and mouse | Gamepad |
-|---|---|---|
-| Walk | A / D | Left stick |
-| Jump | W or Space | A |
-| Thrusters (in the air) | Hold Space | Hold A |
-| Aim | Mouse | Right stick |
-| Fire | Left click | Right trigger |
-| Change weapon | 1 / 2 or mouse wheel | LB / RB |
-| Menu | Esc | Start |
 
 ## License
 
