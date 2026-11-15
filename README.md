@@ -8,7 +8,7 @@ RumbleMechs is a 2D side-scrolling multiplayer team PvP mech game with destructi
 
 This repository only holds the game for download. The game's source is not public.
 
-**Join the community on [Discord](https://discord.gg/YaeqsPCvM)**: find people to play with, report bugs and suggest
+**Join the community on [Discord](https://discord.gg/BdMd66XYY)**: find people to play with, report bugs and suggest
 ideas.
 
 ## Features
